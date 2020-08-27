@@ -1,0 +1,14 @@
+[*]
+indent_size = 2
+indent_style = space
+
+[*.pbxproj]
+indent_size = 2
+indent_style = tabs
+
+[*.py]
+indent_size = 4
+
+[Info.plist]
+indent_size = 2
+indent_style = tabs
