@@ -20,7 +20,7 @@ export default ({ siteMetadata }) => (
       I also spend time researching how complex system self-organise in order to understand the dynamics of evolution and the emergence of collective behaviour.
     </p>
     <p>
-      Read more about me <Link to="/about">here</Link>, or connect with me on <a href={`https://twitter.com/${siteMetadata.social.twitter}`}>twitter</a> or <a href={`https://linkedin.com/in/${siteMetadata.social.linkedin}`}>linkedIn</a>.
+      Read more <Link to="/about">about me</Link>, or connect with me on <a href={`https://twitter.com/${siteMetadata.social.twitter}`}>twitter</a> or <a href={`https://linkedin.com/in/${siteMetadata.social.linkedin}`}>linkedIn</a>.
     </p>
   </div>
 );

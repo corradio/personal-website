@@ -15,14 +15,6 @@ module.exports = {
       resolve: 'gatsby-plugin-page-creator',
       options: {
         path: `${__dirname}/src/pages`,
-        // Ignore all js files descendant of `pages`
-        // which are not named `index.js` or `404.js`
-        // and ignore home/index.js - this prevents creation of a
-        // seperate page for the home content, which is already
-        // imported in pages/index.js
-        ignore: ['**/!(index|404).js', '**/home/index.js'],
-        // See pattern syntax recognized by micromatch
-        // https://www.npmjs.com/package/micromatch#matching-features
       },
     },
     // {

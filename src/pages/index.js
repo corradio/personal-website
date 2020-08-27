@@ -17,29 +17,20 @@ export default ({ data, location }) => {
       />
       <Bio siteMetadata={siteMetadata} />
 
-      <h1 style={{ marginTop: rhythm(2) }}>Selected publications</h1>
-      <ul>
-        <li>Pragmatic guide to climate change</li>
-      </ul>
-
       <h1 style={{ marginTop: rhythm(2) }}>Blog posts</h1>
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug;
         return (
           <article key={node.fields.slug}>
             <header>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
+              <h3 style={{ marginBottom: 0 }}>
                 <Link style={{ boxShadow: 'none' }} to={`blog${node.fields.slug}`}>
                   {title}
                 </Link>
               </h3>
               <small>{node.frontmatter.date}</small>
             </header>
-            <section>
+            <section style={{ marginTop: rhythm(1 / 4) }}>
               <p
                 dangerouslySetInnerHTML={{
                   __html: node.frontmatter.description || node.excerpt,
@@ -49,6 +40,12 @@ export default ({ data, location }) => {
           </article>
         );
       })}
+
+      <h1 style={{ marginTop: rhythm(2) }}>Selected publications</h1>
+      <ul>
+        <li>Pragmatic guide to climate change</li>
+      </ul>
+
     </Layout>
   );
 };
