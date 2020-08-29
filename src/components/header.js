@@ -13,8 +13,8 @@ export default () => (
     }}
   >
     <div style={{ display: 'flex', justifyContent: 'space-around', padding: rhythm(1 / 4) }}>
-      <Link style={{ color: 'inherit' }} to='/'>Home</Link>
-      <Link style={{ color: 'inherit' }} to='/about'>About</Link>
+      <Link style={{ color: 'inherit' }} to="/">Home</Link>
+      <Link style={{ color: 'inherit' }} to="/about">About</Link>
     </div>
     <hr />
   </header>

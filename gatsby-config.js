@@ -11,6 +11,7 @@ module.exports = {
     siteUrl: 'https://oliviercorradi.me',
   },
   plugins: [
+    'gatsby-plugin-feed',
     {
       resolve: 'gatsby-plugin-page-creator',
       options: {

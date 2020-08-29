@@ -11,21 +11,24 @@ export default ({ data, location }) => {
         title="Olivier Corradi | About"
       />
 
-      <h1 style={{ marginTop: rhythm(2) }}>Favorites ⭐️</h1>
+      <h1>About me</h1>
+      TBD
+
+      <h1 style={{ marginTop: rhythm(2) }}>Favorite resources</h1>
       This is a section containing my favorite resources, listed in the order that I discovered them (newest first).
 
-      <h2 style={{ marginTop: rhythm(1) }}>Articles 📝</h2>
+      <h2 style={{ marginTop: rhythm(1) }}>Articles</h2>
       <ul>
         <li><a href="https://dothemath.ucsd.edu/2012/04/economist-meets-physicist/">Exponential Economist Meets Finite Physicist</a></li>
       </ul>
 
-      <h2 style={{ marginTop: rhythm(1) }}>Papers 📝</h2>
+      <h2 style={{ marginTop: rhythm(1) }}>Papers</h2>
       <ul>
         <li><a href="https://www.sciencedirect.com/science/article/pii/0895717794901880">Life as a manifestation of the second law of thermodynamics</a></li>
       </ul>
 
 
-      <h2 style={{ marginTop: rhythm(1) }}>Books 📚</h2>
+      <h2 style={{ marginTop: rhythm(1) }}>Books</h2>
       <ul>
         {[
           {
