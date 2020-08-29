@@ -4,6 +4,11 @@ import { Link } from 'gatsby';
 
 import { rhythm } from '../utils/typography';
 
+const PAGES = {
+  'Home': '/',
+  'About': '/about',
+};
+
 export default () => (
   <header
     style={{
@@ -13,8 +18,9 @@ export default () => (
     }}
   >
     <div style={{ display: 'flex', justifyContent: 'space-around', padding: rhythm(1 / 4) }}>
-      <Link style={{ color: 'inherit' }} to="/">Home</Link>
-      <Link style={{ color: 'inherit' }} to="/about">About</Link>
+    { Object.entries(PAGES).map(([k, v]) => (
+      <Link style={{ color: 'inherit' }} activeStyle={{ fontWeight: 'bold' }} to={v}>{k}</Link>
+    )) }
     </div>
     <hr />
   </header>

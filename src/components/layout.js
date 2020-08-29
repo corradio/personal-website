@@ -7,21 +7,18 @@ import Footer from './footer';
 import { rhythm, scale } from '../utils/typography';
 
 export default ({
-  location,
   children,
-}) => {
-  return (
-    <div
-      style={{
-        marginLeft: 'auto',
-        marginRight: 'auto',
-        maxWidth: '680px',
-        padding: `0 ${rhythm(3 / 4)}`,
-      }}
-    >
-      <Header />
-      <main>{children}</main>
-      <Footer />
-    </div>
-  );
-};
+}) => (
+  <div
+    style={{
+      marginLeft: 'auto',
+      marginRight: 'auto',
+      maxWidth: '680px',
+      padding: `0 ${rhythm(3 / 4)}`,
+    }}
+  >
+    <Header />
+    <main>{children}</main>
+    <Footer />
+  </div>
+);
