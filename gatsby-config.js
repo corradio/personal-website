@@ -7,6 +7,7 @@ module.exports = {
       twitter: 'corradio',
       linkedin: 'oliviercorradi',
       github: 'corradio',
+      googlescholar: 'HHPrrZ8AAAAJ',
     },
     siteUrl: 'https://oliviercorradi.me',
   },

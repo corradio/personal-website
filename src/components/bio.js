@@ -2,6 +2,7 @@ import React from 'react';
 
 import { StaticQuery, Link, graphql } from 'gatsby';
 import Img from 'gatsby-image';
+import { Container, Row, Col } from 'react-grid-system';
 
 import { rhythm } from '../utils/typography';
 
@@ -27,24 +28,26 @@ export default ({ siteMetadata }) => (
     <h1>
       Hi there, I&apos;m Olivier Corradi
     </h1>
-    <div
-      style={{
-        display: 'flex', flexDirection: 'row', alignItems: 'center', marginBottom: rhythm(1),
-      }}
-    >
-      <div
-        style={{
-          width: '100%', borderRadius: '30%', overflow: 'hidden', marginRight: rhythm(1 / 2),
-        }}
-      >
-        <ProfileImage />
-      </div>
-      <div>
-        I&apos;m a data scientist and entrepreneur focussed on finding scalable solutions to climate change.
+    <Container style={{ padding: 0 }}>
+      <Row justify="center" align="center" nogutter>
+        <Col xs={7} sm={3}>
+          <div
+            style={{
+              borderRadius: '30%',
+              overflow: 'hidden',
+              margin: rhythm(1 / 2),
+            }}
+          >
+            <ProfileImage />
+          </div>
+        </Col>
+        <Col sm={9} style={{ marginBottom: rhythm(1 / 2), marginTop: rhythm(1 / 2) }}>
+          I&apos;m a data scientist and entrepreneur focussed on finding scalable solutions to climate change.
 
-        I created the <a href="https://electricitymap.org">electricityMap</a> early 2016, and later the same year founded <a href="https://tmrow.com">Tomorrow</a>, where I still dedicate most of my time as CEO.
-      </div>
-    </div>
+          I created the <a href="https://electricitymap.org">electricityMap</a> early 2016, and later the same year founded <a href="https://tmrow.com">Tomorrow</a>, where I dedicate most of my time as CEO.
+        </Col>
+      </Row>
+    </Container>
     <p>
       I also spend time researching how complex system self-organise in order to understand the dynamics of evolution and the emergence of collective behaviour.
     </p>

@@ -1,7 +1,7 @@
 import Typography from 'typography';
 
 const typography = new Typography({
-  baseFontSize: '21px',
+  baseFontSize: '18px',
   baseLineHeight: 1.6,
 
   headerFontFamily: ['Charter', 'Georgia', 'Cambria', '"Times New Roman"', 'Times, serif'],
@@ -11,7 +11,7 @@ const typography = new Typography({
   bodyFontFamily: ['Charter', 'Georgia', 'Cambria', '"Times New Roman"', 'Times, serif'],
   bodyColor: 'rgba(41, 41, 41, 1)',
 
-  scaleRatio: 1.5,
+  scaleRatio: 2,
 
   overrideStyles: ({ adjustFontSizeTo, rhythm }, options, styles) => ({
     a: {
