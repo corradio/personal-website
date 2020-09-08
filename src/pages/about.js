@@ -17,11 +17,12 @@ export default ({ data, location }) => {
         Wanted to fully embrace my Danish roots (my mother is Danish), I then moved to Denmark after high-school to study Mathematics at DTU.
         To make ends meet, I installed and managed servers and computers of the uni&apos;s library.
         In my spare time, I lead a Warcraft III team which surprisingly enough ended up being ranked at a European level.
-        To this day it remains one of my favorite strategy games as it combines real-time micro-management skills with longer strategical planning abilities, packed in short intense games (15-30min).
+        To this day it remains one of my favorite strategy games as it combines real-time micro-management skills with longer strategical planning abilities, packed in short and intense games of 15-30min.
+        It taught me a lot about decision making under uncertainty in high-pressure environments.
       </p>
       <p>
         Initially triggered by a fascination of ants, I wrote a paper based on my thesis about the <a href="https://core.ac.uk/download/pdf/192402918.pdf">emergence of collective behavior of pedestrians</a> as a first attempt to understand evolution from a physical perspective.
-        I then spent two years in France at École Centrale Paris studying engineering, science and management, before heading back to Denmark to finalise my Master around Applied Statistics.
+        I then spent two years in France at École Centrale Paris studying engineering, science and management, before heading back to Denmark to finalise my Master in Mathematical Statistics.
         My key research topic was about integrating large shares of fluctuating renewable energy onto the electricity grid, which led me to write a paper based on my thesis about <a href="http://henrikmadsen.org/wp-content/uploads/2014/05/Journal_article_-_2013_-_Controlling_Electricity_Consumption_by_Forecasting_its_Response_to_Varying_Prices.pdf">controlling electricity consumption by forecasting its response to varying prices</a>.
         As a student job, I spent time at IBM Denmark learning about business development in the Energy & Utilities sector.
       </p>
