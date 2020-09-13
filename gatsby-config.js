@@ -9,7 +9,7 @@ module.exports = {
       github: 'corradio',
       googlescholar: 'HHPrrZ8AAAAJ',
     },
-    siteUrl: 'https://oliviercorradi.me',
+    siteUrl: 'https://oliviercorradi.com',
   },
   plugins: [
     'gatsby-plugin-feed',
