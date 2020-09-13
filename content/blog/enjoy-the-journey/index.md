@@ -4,7 +4,6 @@ date: "2016-04-21T12:00:00.000Z"
 image: cover.png
 author: Olivier Corradi
 tags: []
-originalURL: https://medium.com/@oliviercorradi/enjoy-the-journey-62483b96210e
 ---
 
 ![cover.png](cover.png)
