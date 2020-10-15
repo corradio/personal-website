@@ -57,7 +57,7 @@ export default ({ data, location }) => {
           <Post
             title={title}
             key={node.fields.slug}
-            link={`blog${node.fields.slug}`}
+            link={`blog${node.fields.slug}/`}
             date={node.frontmatter.date}
             description={node.frontmatter.description || node.excerpt}
           />
