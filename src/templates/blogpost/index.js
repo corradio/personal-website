@@ -2,6 +2,8 @@
 import React from 'react';
 import { Link, graphql } from 'gatsby';
 import styled from 'styled-components';
+import 'katex/dist/katex.min.css';
+import 'prismjs/themes/prism-coy.css';
 
 import { rhythm } from '../../utils/typography';
 import theme from '../../utils/themeconstants';
@@ -11,6 +13,9 @@ import SEO from '../../components/seo';
 import Share from './share';
 
 const Section = styled.section`
+  .gatsby-highlight pre[class*="language-"] {
+    font-size: 70%;
+  }
   h2,h3 {
     margin-top: ${rhythm(2)};
     margin-bottom: ${rhythm(1 / 2)};

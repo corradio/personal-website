@@ -5,6 +5,3 @@
  */
 
 // You can delete this file if you're not using it
-
-// code-highlight in blog
-require('prismjs/themes/prism.css');
