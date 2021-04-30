@@ -1,40 +1,12 @@
 import React from 'react';
 
-import { Link, graphql } from 'gatsby';
+import { graphql } from 'gatsby';
 
 import Bio from '../components/bio';
 import Layout from '../components/layout';
+import Post from '../components/post';
 import SEO from '../components/seo';
 import { rhythm } from '../utils/typography';
-
-const Post = ({
-  title, href, to, date, description, key,
-}) => (
-  <article key={key}>
-    <header>
-      <h3 style={{ marginBottom: 0 }}>
-        {to ? (
-          <Link style={{ boxShadow: 'none' }} to={to}>
-            {title}
-          </Link>
-        ) : null}
-        {href ? (
-          <a style={{ boxShadow: 'none' }} href={href}>
-            {title}
-          </a>
-        ) : null}
-      </h3>
-      {date ? <small>{date}</small> : null}
-    </header>
-    <section style={{ marginTop: rhythm(1 / 4) }}>
-      <p
-        dangerouslySetInnerHTML={{
-          __html: description,
-        }}
-      />
-    </section>
-  </article>
-);
 
 const YoutubeVideo = ({ src }) => (
   // eslint-disable-next-line jsx-a11y/iframe-has-title
@@ -72,6 +44,11 @@ export default ({ data, location }) => {
       })}
 
       <h1 style={{ marginTop: rhythm(2) }}>Selected publications</h1>
+      <Post
+        title="How to trace back the origin of electricity"
+        href="https://www.tmrow.com/blog/flow-tracing/"
+        date="April 19, 2021"
+      />
       {null && <Post
         title="Real-time carbon accounting method for the European electricity markets"
         href="https://www.sciencedirect.com/science/article/pii/S2211467X19300549"
@@ -106,6 +83,7 @@ export default ({ data, location }) => {
       <h1 style={{ marginTop: rhythm(2) }}>Selected videos</h1>
       <YoutubeVideo src="https://www.youtube.com/embed/UR3K4CokeHA" />
       <YoutubeVideo src="https://www.youtube.com/embed/PAelZb2ZYwI" />
+      <YoutubeVideo src="https://www.youtube.com/embed/cl33WNjZCO4" />
       <YoutubeVideo src="https://www.youtube.com/embed/8jrD91gDvSk" />
       <YoutubeVideo src="https://www.youtube.com/embed/AZ3td3fHnWM" />
 

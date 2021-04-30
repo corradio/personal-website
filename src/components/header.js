@@ -6,7 +6,9 @@ import { rhythm } from '../utils/typography';
 
 const PAGES = {
   'Home': '/',
-  'About': '/about/',
+  'Blog': '/blog/',
+  'Resources': '/resources/',
+  // 'About': '/about/',
 };
 
 export default () => (
@@ -19,7 +21,7 @@ export default () => (
   >
     <div style={{ display: 'flex', justifyContent: 'space-around', padding: rhythm(1 / 4) }}>
     { Object.entries(PAGES).map(([k, v]) => (
-      <Link style={{ color: 'inherit' }} partiallyActive={true} activeStyle={{ fontWeight: 'bold' }} to={v}>{k}</Link>
+      <Link style={{ color: 'inherit' }} partiallyActive={v.includes('blog')} activeStyle={{ fontWeight: 'bold' }} to={v}>{k}</Link>
     )) }
     </div>
     <hr />

@@ -26,7 +26,7 @@ const ProfileImage = () => (
 export default ({ siteMetadata }) => (
   <div>
     <h1>
-      Hi there, I&apos;m Olivier Corradi
+      Hi there, I&apos;m Olivier
     </h1>
     <Container style={{ padding: 0 }}>
       <Row justify="center" align="center" nogutter>
@@ -52,7 +52,7 @@ export default ({ siteMetadata }) => (
       I also spend time researching how complex system self-organise in order to understand the dynamics of evolution and the emergence of collective behaviour.
     </p>
     <p>
-      Read more <Link to="/about/">about me</Link>, or connect with me on <a href={`https://twitter.com/${siteMetadata.social.twitter}`}>twitter</a> or <a href={`https://linkedin.com/in/${siteMetadata.social.linkedin}`}>linkedIn</a>.
+      Feel free to connect with me on <a href={`https://twitter.com/${siteMetadata.social.twitter}`}>twitter</a> or <a href={`https://linkedin.com/in/${siteMetadata.social.linkedin}`}>linkedIn</a>.
     </p>
   </div>
 );
