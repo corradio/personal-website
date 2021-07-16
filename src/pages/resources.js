@@ -12,18 +12,19 @@ export default ({ data, location }) => {
       />
 
       <h1 style={{ marginTop: rhythm(2) }}>Favorite resources</h1>
-      This is a section containing useful resources, listed in the order that I discovered them (newest first).
+      This is a section containing useful resources.
+      In each section, they are listed in the order that I discovered them (newest first).
 
       <h2 style={{ marginTop: rhythm(1) }}>Articles</h2>
       <ul>
         <li><a href="https://dothemath.ucsd.edu/2012/04/economist-meets-physicist/">Exponential Economist Meets Finite Physicist</a></li>
+        <li><a href="http://worrydream.com/MagicInk/">Magic Ink - information software and the graphical interface</a></li>
       </ul>
 
       <h2 style={{ marginTop: rhythm(1) }}>Papers</h2>
       <ul>
         <li><a href="https://www.sciencedirect.com/science/article/pii/0895717794901880">Life as a manifestation of the second law of thermodynamics</a></li>
       </ul>
-
 
       <h2 style={{ marginTop: rhythm(1) }}>Books</h2>
       <ul>
@@ -67,6 +68,11 @@ export default ({ data, location }) => {
         ].map(d => (
           <li><a href={d.href}>{`${d.name} (${d.author}) ${d.lang === 'fr' ? ' (French)' : ''}`}</a></li>
         ))}
+      </ul>
+
+      <h2 style={{ marginTop: rhythm(1) }}>Videos</h2>
+      <ul>
+        <li><a href="https://www.youtube.com/playlist?list=PLdHV4AV3ixB2J2PQrvbDnDg_93YAlklTK/">Reality 101 - Energy & Economy</a></li>
       </ul>
 
     </Layout>

@@ -30,7 +30,7 @@ export default () => (
           width: '100%',
           fontSize: 'small',
           textAlign: 'center',
-          paddingBottom: rhythm(1 / 4),
+          paddingBottom: rhythm(3 / 4),
         }}
       >
         © Olivier Corradi&nbsp;

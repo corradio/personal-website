@@ -1,0 +1,47 @@
+import React from 'react';
+
+import Layout from '../components/layout';
+import SEO from '../components/seo';
+import { rhythm } from '../utils/typography';
+
+import NorthVideo from '../videos/north.mp4';
+
+export default ({ data, location }) => {
+  return (
+    <Layout location={location}>
+      <SEO
+        title="Olivier Corradi | Projects"
+      />
+
+      <h1 style={{ marginTop: rhythm(2) }}>Projects</h1>
+      This is a section containing projects I have worked on.
+
+      <h2 style={{ marginTop: rhythm(1) }}>The North app: automating your personal carbon footprint (2019-2020)</h2>
+      <p>
+        With the team at Tomorrow, we worked on the North app, which was envisioned as a way to automatically track and calculate the carbon footprint of your life.
+        It worked by connecting to apps you already used in order to track the activities you perform in your daily life.
+        For example, by connecting and parsing your emails, the app was able to detect all plane and train tickets purchased.
+        By connecting to your bank, the app was able to assess all items purchased (e.g. groceries or clothing).
+        Finally, by connecting to your smart meter or electric vehicle, the app was able to assess the time at which you used electricity.
+      </p>
+      <p>
+        As the app had access to a significant amount of sensitive content, it was <i>private by design</i>:
+        all data processing was done on the phone, and it didn't upload any information onto our servers.
+      </p>
+      <p>
+        All the carbon models and the integrations were <a href="https://github.com/tmrowco/northapp-contrib">open-sourced</a> in order to create a community helping us to cover the whole ecosystem of potential integrations, and to enable trust in the carbon models.
+      </p>
+      <p>
+        <center>
+          <video width="250" height="445" controls>
+            <source src={NorthVideo} type="video/mp4" />
+          </video>
+        </center>
+      </p>
+      <p>
+        North was discontinued in August 2020 (read more <a href="https://www.tmrow.com/blog/sunsetting-north/">here</a>).
+      </p>
+
+    </Layout>
+  );
+};
