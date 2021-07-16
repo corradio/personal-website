@@ -25,6 +25,7 @@ export default ({ data, location }) => {
             to={`/blog${node.fields.slug}`}
             date={node.frontmatter.date}
             description={node.frontmatter.description || node.excerpt}
+            tags={node.frontmatter.tags}
           />
         );
       })}
@@ -46,6 +47,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            tags
           }
         }
       }
