@@ -3,7 +3,7 @@ title: Enjoy the journey
 date: "2016-04-21T12:00:00.000Z"
 image: cover.png
 author: Olivier Corradi
-tags: []
+tags: ['entrepreneurship', 'self-awareness']
 ---
 
 ![cover.png](cover.png)

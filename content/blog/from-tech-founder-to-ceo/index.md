@@ -4,7 +4,7 @@ date: "2020-02-06T12:00:00.000Z"
 description: Should you build products, or should you build teams?
 image: cover.png
 author: Olivier Corradi
-tags: ['Tomorrow']
+tags: ['entrepreneurship']
 originalURL: https://www.tmrow.com/blog/from-tech-founder-to-ceo/
 ---
 

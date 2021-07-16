@@ -39,6 +39,7 @@ export default ({ data, location }) => {
             to={`/blog${node.fields.slug}`}
             date={node.frontmatter.date}
             description={node.frontmatter.description || node.excerpt}
+            tags={node.frontmatter.tags}
           />
         );
       })}
@@ -48,6 +49,7 @@ export default ({ data, location }) => {
         title="How to trace back the origin of electricity"
         href="https://www.tmrow.com/blog/flow-tracing/"
         date="April 19, 2021"
+        tags={['Tomorrow blog']}
       />
       {null && <Post
         title="Real-time carbon accounting method for the European electricity markets"
@@ -58,16 +60,19 @@ export default ({ data, location }) => {
         title="Why green electricity contracts fail to deliver green electricity"
         href="https://www.tmrow.com/blog/green-electricity-contracts/"
         date="September 03, 2018"
+        tags={['Tomorrow blog']}
       />
       <Post
         title="Estimating the marginal carbon intensity of electricity with machine learning"
         href="https://www.tmrow.com/blog/marginal-carbon-intensity-of-electricity-with-machine-learning/"
         date="July 03, 2018"
+        tags={['Tomorrow blog']}
       />
       <Post
         title="Pragmatic guide to climate change"
         href="https://tmrow.com/climatechange/"
         date="2016 (regularly revised)"
+        tags={['Tomorrow blog']}
       />
       <Post
         title="Controlling Electricity Consumption by Forecasting its Response to Varying Prices"
@@ -110,6 +115,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            tags
           }
         }
       }
