@@ -56,7 +56,7 @@ export default ({ data, location, pageContext }) => {
         title={`${title} - Olivier Corradi's blog`}
         description={post.frontmatter.description || post.excerpt}
         previewImageURL={`${siteUrl}${post.frontmatter.image.publicURL}`}
-        canonicalLink={post.frontmatter.originalURL}
+        // canonicalLink={post.frontmatter.originalURL} // TODO: add in GQL below
       />
       <article>
         <header style={{ marginBottom: rhythm(1) }}>
@@ -135,7 +135,6 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
-        originalURL
         date(formatString: "MMMM DD, YYYY")
         description
         image {
