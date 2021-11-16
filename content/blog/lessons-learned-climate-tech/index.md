@@ -2,7 +2,7 @@
 title: Lessons learnt after 5 years of climate tech entrepreneurship
 date: "2021-11-15T12:00:00.000Z"
 description: This article attempts to reflect back on the most meaningful lessons learned by building electricityMap, Bloom and North at Tomorrow.
-image: cover.png
+image: morty.png
 author: Olivier Corradi
 tags: ['entrepreneurship']
 ---
