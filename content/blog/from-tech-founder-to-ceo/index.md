@@ -1,24 +1,23 @@
 ---
-title:  From tech founder to CEO
+title: From tech founder to CEO
 date: "2020-02-06T12:00:00.000Z"
 description: Should you build products, or should you build teams?
 image: cover.png
 author: Olivier Corradi
 tags: ['entrepreneurship']
-originalURL: https://www.tmrow.com/blog/from-tech-founder-to-ceo/
 ---
 
 ![cover.png](cover.png)
 
 > "Every person in your company is a vector. Your progress is determined by the sum of all vectors."
 >
-> — Elon Musk
+> — Elon Musk
 
 As tech founder, and as your startup grows, you might start getting questions like "it's not clear what the direction is". Your most meaningful work will go from being about "building feature X" to "making sure other people are empowered to build X". This is a very personal story about that transition.
 
 I thought I was prepared. After all, I was the first hire at a startup that was scaled to 30 people in under 2 years, where I transitioned from coding the first version of everything to being in a leadership position. I had often seen brilliant coders forced into leadership positions, sometimes revealing that they were lousy leaders. I thought this would serve me as an example and as a guiding principle of how not to do things. But this would be different.
 
-## It all changes when you're the founder
+## It all changes when you're the founder
 
 As a founder, my level of perfectionism rose dramatically. This is partly due to how I lived through crucial moments of the company where our collective actions amount to the difference between life and death of the organisation. I recall very specific moments where our strategy decisions turned out to be pivotal, like for example the decision to change our product offering, or when we decided to build a consumer app.
 
@@ -30,7 +29,7 @@ When you have lived through a few of those experiences, it changes your expectat
 
 Getting good at building things yourself invariably means that you'll spend a lot of hours alone, learning your craft, and learning shortcuts and tips and tricks that will only work for you. In early startup days where you're coding most things, you might lack the ability to work in a team, to teach others about those tips and tricks. That's because you've become so effective that both your patience  and tolerance for incompetence is drastically reduced. You just become annoyed when someone doesn't "get it" immediately. It's not arrogance: it's just that you have lost sight of where others are, and that others need time to absorb the context that you're taking for granted.
 
-A few weeks ago, the situation was that I still owned everything tech. That had been the case since the beginning, 4 years ago: I was personally coding and training Machine Learning models, writing scientific articles, maintaining our whole cloud infrastructure, building devops tools to have continuous testing and release, coding most of consumer app in React Native, fixing bugs and dealing with technical customer requests. Basically I was both building features and fixing anything raised by someone shouting "it doesn't work" - all of this while also raising money, making public appearances to raise awareness about our company, and building a team. That's not how you build a company (it's a good recipe for burnout though), and I knew it had to change.
+A few weeks ago, the situation was that I still owned everything tech. That had been the case since the beginning, 4 years ago: I was personally coding and training Machine Learning models, writing scientific articles, maintaining our whole cloud infrastructure, building devops tools to have continuous testing and release, coding most of consumer app in React Native, fixing bugs and dealing with technical customer requests. Basically I was both building features and fixing anything raised by someone shouting "it doesn't work" - all of this while also raising money, making public appearances to raise awareness about our company, and building a team. That's not how you build a company (it's a good recipe for burnout though), and I knew it had to change.
 
 ![](commits.png)
 <p class="figcaption">There's not many days without a code contribution. Heck not even many Sundays without a commit!</p>
@@ -40,11 +39,11 @@ A reasonable question to ask is why did it come to this? Why did nothing happen 
 
 I sought to build a team that would complement my weaknesses. The people who joined me early on are specialists in design, business development and growth marketing (areas that were less known to me). Instead, I should have made sure to [fire myself](https://techcrunch.com/2012/08/28/first-fire-thyself/) from my job, and empower someone else to take over. That would have meant hiring a software engineer and a data scientist early on.
 
-I feel that I should have known better given my previous experience. It turns out that as a founder, it's hard to let go of the things you believe are the most critically linked to the survival of the organisation. The quality delivered will inevitably go down. Features will get developed slower. It turns out that it's ok, because the goal is not necessarily to go fast -- it's to go far.
+I feel that I should have known better given my previous experience. It turns out that as a founder, it's hard to let go of the things you believe are the most critically linked to the survival of the organisation. The quality delivered will inevitably go down. Features will get developed slower. It turns out that it's ok, because the goal is not necessarily to go fast -- it's to go far.
 
 > Alone you go fast, but together, you go further.
 
-## The bigger question
+## The bigger question
 Most technical founders at this stage would be forced to become CEOs although they're not necessarily a good fit. They might end up micro-managing or unable to sufficiently let go of their responsibilities to give newcomers to space they need to feel agency. I've seen this several times, and I know this is not easy. I also knew I had a choice, and I wanted to make a very conscious choice here.
 
 In a nutshell, two paths were offered to me:
