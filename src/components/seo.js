@@ -58,7 +58,7 @@ function SEO({
               {
                 property: 'og:image',
                 name: 'image',
-                content: previewImageURL,// || `${data.site.siteMetadata.siteUrl}/social.jpg`,
+                content: previewImageURL, // || `${data.site.siteMetadata.siteUrl}/social.jpg`,
               },
               {
                 property: 'og:type',
@@ -86,7 +86,7 @@ function SEO({
               },
               {
                 name: 'twitter:image',
-                content: previewImageURL,// || `${data.site.siteMetadata.siteUrl}/social.jpg`,
+                content: previewImageURL, // || `${data.site.siteMetadata.siteUrl}/social.jpg`,
               },
               {
                 name: 'twitter:site',

@@ -49,30 +49,37 @@ export default ({ data, location }) => {
         title="How to trace back the origin of electricity"
         href="https://www.tmrow.com/blog/flow-tracing/"
         date="April 19, 2021"
-        tags={['Tomorrow blog']}
+        tags={['electricityMap blog']}
       />
-      {null && <Post
+      {null && (
+      <Post
         title="Real-time carbon accounting method for the European electricity markets"
         href="https://www.sciencedirect.com/science/article/pii/S2211467X19300549"
         date="November 01, 2019"
-      />}
+      />
+      )}
       <Post
         title="Why green electricity contracts fail to deliver green electricity"
         href="https://www.tmrow.com/blog/green-electricity-contracts/"
         date="September 03, 2018"
-        tags={['Tomorrow blog']}
+        tags={['electricityMap blog']}
       />
       <Post
         title="Estimating the marginal carbon intensity of electricity with machine learning"
         href="https://www.tmrow.com/blog/marginal-carbon-intensity-of-electricity-with-machine-learning/"
         date="July 03, 2018"
-        tags={['Tomorrow blog']}
+        tags={['electricityMap blog']}
       />
       <Post
         title="Pragmatic guide to climate change"
         href="https://tmrow.com/climatechange/"
         date="2016 (regularly revised)"
         tags={['Tomorrow blog']}
+      />
+      <Post
+        title="How we&apos;re creating a privacy-preserving AI for your smartphone"
+        href="https://medium.com/snips-ai/how-we-re-creating-a-privacy-preserving-ai-for-your-smartphone-83665c90f0d5"
+        date="February 29, 2016"
       />
       <Post
         title="Controlling Electricity Consumption by Forecasting its Response to Varying Prices"

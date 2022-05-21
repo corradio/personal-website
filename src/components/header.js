@@ -15,7 +15,6 @@ export default () => (
   <header
     style={{
       width: '100%',
-      fontSize: 'small',
       textAlign: 'center',
     }}
   >
