@@ -12,6 +12,7 @@ module.exports = {
     siteUrl: 'https://oliviercorradi.com',
   },
   plugins: [
+    'gatsby-plugin-fontawesome-css',
     'gatsby-plugin-feed',
     {
       resolve: 'gatsby-plugin-page-creator',
