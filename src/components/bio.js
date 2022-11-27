@@ -44,7 +44,7 @@ export default ({ siteMetadata }) => (
         <Col sm={9} style={{ marginBottom: rhythm(1 / 2), marginTop: rhythm(1 / 2) }}>
           I&apos;m a statistician, data scientist and entrepreneur focussed on finding scalable solutions to climate change.
 
-          I created the <a href="https://electricitymap.org">electricityMap</a> early 2016, and later the same year founded <a href="https://tmrow.com">Tomorrow</a>, where I dedicate most of my time as CEO.
+          I created and founded <a href="https://electricitymaps.com">Electricity Maps</a> early 2016, where I now dedicate most of my time as CEO.
         </Col>
       </Row>
     </Container>

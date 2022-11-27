@@ -19,14 +19,26 @@ const YoutubeVideo = ({ src }) => (
   />
 );
 
+const SpotifyPodcast = ({ src }) => (
+  // eslint-disable-next-line jsx-a11y/iframe-has-title
+  <iframe
+    style={{ borderRadius: 12 }}
+    src={src}
+    width="100%"
+    height="152"
+    frameBorder="0"
+    allowFullScreen={false}
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy"
+  />
+);
+
 export default ({ data, location }) => {
   const { siteMetadata } = data.site;
   const posts = data.allMarkdownRemark.edges;
   return (
     <Layout location={location}>
-      <SEO
-        title="Olivier Corradi | Home"
-      />
+      <SEO title="Olivier Corradi | Home" />
       <Bio siteMetadata={siteMetadata} />
 
       <h1 style={{ marginTop: rhythm(2) }}>Blog posts</h1>
@@ -49,35 +61,34 @@ export default ({ data, location }) => {
         title="How to trace back the origin of electricity"
         href="https://www.tmrow.com/blog/flow-tracing/"
         date="April 19, 2021"
-        tags={['electricityMap blog']}
+        tags={['Electricity Maps blog']}
       />
       {null && (
-      <Post
-        title="Real-time carbon accounting method for the European electricity markets"
-        href="https://www.sciencedirect.com/science/article/pii/S2211467X19300549"
-        date="November 01, 2019"
-      />
+        <Post
+          title="Real-time carbon accounting method for the European electricity markets"
+          href="https://www.sciencedirect.com/science/article/pii/S2211467X19300549"
+          date="November 01, 2019"
+        />
       )}
       <Post
         title="Why green electricity contracts fail to deliver green electricity"
         href="https://www.tmrow.com/blog/green-electricity-contracts/"
         date="September 03, 2018"
-        tags={['electricityMap blog']}
+        tags={['Electricity Maps blog']}
       />
       <Post
         title="Estimating the marginal carbon intensity of electricity with machine learning"
         href="https://www.tmrow.com/blog/marginal-carbon-intensity-of-electricity-with-machine-learning/"
         date="July 03, 2018"
-        tags={['electricityMap blog']}
+        tags={['Electricity Maps blog']}
       />
       <Post
         title="Pragmatic guide to climate change"
-        href="https://tmrow.com/climatechange/"
+        href="climatechange/"
         date="2016 (regularly revised)"
-        tags={['Tomorrow blog']}
       />
       <Post
-        title="How we&apos;re creating a privacy-preserving AI for your smartphone"
+        title="How we're creating a privacy-preserving AI for your smartphone"
         href="https://medium.com/snips-ai/how-we-re-creating-a-privacy-preserving-ai-for-your-smartphone-83665c90f0d5"
         date="February 29, 2016"
       />
@@ -92,13 +103,19 @@ export default ({ data, location }) => {
         date="September 05, 2012"
       />
 
+      <h1 style={{ marginTop: rhythm(2) }}>Selected podcasts</h1>
+      <SpotifyPodcast src="https://open.spotify.com/embed/episode/378C52Ofs5dw6r2Mlk940o" />
+      <SpotifyPodcast src="https://open.spotify.com/embed/episode/4QnX8ngxvd5ACUapufsPhL" />
+      <SpotifyPodcast src="https://open.spotify.com/embed/episode/7iQHakZmrbxtWBZmtXl3SP" />
+      <SpotifyPodcast src="https://open.spotify.com/embed/episode/757juNnOBE3EvJlMPgvt2q" />
+
       <h1 style={{ marginTop: rhythm(2) }}>Selected videos</h1>
+      <YoutubeVideo src="https://www.youtube.com/embed/hD0Fo94OvNQ" />
       <YoutubeVideo src="https://www.youtube.com/embed/UR3K4CokeHA" />
       <YoutubeVideo src="https://www.youtube.com/embed/PAelZb2ZYwI" />
       <YoutubeVideo src="https://www.youtube.com/embed/cl33WNjZCO4" />
       <YoutubeVideo src="https://www.youtube.com/embed/8jrD91gDvSk" />
       <YoutubeVideo src="https://www.youtube.com/embed/AZ3td3fHnWM" />
-
     </Layout>
   );
 };
@@ -108,7 +125,10 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
-        social { twitter, linkedin }
+        social {
+          twitter
+          linkedin
+        }
       }
     }
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {

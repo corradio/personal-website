@@ -2,6 +2,7 @@ import React from 'react';
 
 import Layout from '../components/layout';
 import SEO from '../components/seo';
+import Grid, { DEFAULT_CONFIG } from '../components/interactivegrid';
 import { rhythm } from '../utils/typography';
 
 import NorthVideo from '../videos/north.mp4';
@@ -15,7 +16,14 @@ export default ({ data, location }) => (
     <h1 style={{ marginTop: rhythm(2) }}>Projects</h1>
     This is a section containing projects I have worked on.
 
-    <h2 style={{ marginTop: rhythm(1) }}>footprintMap: CO₂ emissions of the global economy (2022)</h2>
+    <h2 style={{ marginTop: rhythm(1) }}>Scope 2 widget (2022)</h2>
+    It can be tricky to understand scope 2 carbon accounting rules.
+    A guide was written (<a href="https://www.electricitymaps.com/guides/accounting-guide">Understanding Electricity Scope 2 Attribution Rules</a>), and a small widget was made as a complement.
+    Feel free to play around with it below:
+
+    <Grid config={DEFAULT_CONFIG} attributionRuleKey="marketBased" style={{ padding: '2em' }} />
+
+    <h2 style={{ marginTop: rhythm(1) }}>footprintMap: CO₂ emissions of the global economy (2021)</h2>
     <p>
       footprintMap is a visualisation of the CO₂ emissions of the global economy.
       It uses the electricityMap visualisation engine to
