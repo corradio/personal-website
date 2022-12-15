@@ -84,7 +84,7 @@ export default ({ data, location }) => {
       />
       <Post
         title="Pragmatic guide to climate change"
-        href="climatechange/"
+        href="climate-change/"
         date="2016 (regularly revised)"
       />
       <Post
