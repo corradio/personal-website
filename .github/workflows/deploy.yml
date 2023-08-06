@@ -17,5 +17,5 @@ jobs:
         run: yarn && yarn build
       - name: Deploy
         run: yarn deploy
-        with:
+        env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
