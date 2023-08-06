@@ -117,6 +117,13 @@ export default ({ data, location }) => {
       <YoutubeVideo src="https://www.youtube.com/embed/cl33WNjZCO4" />
       <YoutubeVideo src="https://www.youtube.com/embed/8jrD91gDvSk" />
       <YoutubeVideo src="https://www.youtube.com/embed/AZ3td3fHnWM" />
+
+      <h1 style={{ marginTop: rhythm(2) }}>Patents</h1>
+      <Post
+        title="Means for identifying stop periods of a device in a location"
+        href="https://patents.google.com/patent/EP3249358A1/en"
+        date="May 25, 2016"
+      />
     </Layout>
   );
 };
