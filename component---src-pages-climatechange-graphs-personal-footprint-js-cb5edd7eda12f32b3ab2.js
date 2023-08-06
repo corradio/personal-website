@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{"7NYn":function(t,n,e){"use strict";function o(t){if(!t.ok)throw new Error(t.status+" "+t.statusText);return t.text()}n.a=function(t,n){return fetch(t,n).then(o)}}}]);
-//# sourceMappingURL=component---src-pages-climatechange-graphs-personal-footprint-js-cb5edd7eda12f32b3ab2.js.map
