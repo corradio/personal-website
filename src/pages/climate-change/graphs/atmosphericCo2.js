@@ -40,9 +40,9 @@ const AtmosphericCo2 = () => {
     ]);
 
     icecoreObj.split('\n')
-      .filter((d, i) => i >= 138)
+      .filter((d) => !d.startsWith('#'))
       .map((d) => {
-        const r = d.split('\t');
+        const r = d.split('  ');
         return [1950 - +r[0], +r[1]];
       })
       // eslint-disable-next-line no-restricted-globals

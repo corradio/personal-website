@@ -113,12 +113,12 @@ const GlobalTemp = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          NASA&#39;s Goddard Institute for Space Studies (GISS)
+          NASA&apos;s Goddard Institute for Space Studies (GISS)
         </Link>
         {' '}(
         <Link
           outward
-          href="http://climate.nasa.gov/system/internal_resources/details/original/647_Global_Temperature_Data_File.txt"
+          href="https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt"
           target="_blank"
           rel="noopener noreferrer"
         >

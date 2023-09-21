@@ -35,16 +35,16 @@ const WorldPrimaryEnergy = () => {
   const loadData = () => {
     csv('/data/global-primary-energy.csv').then((obj) => {
       const mapping = {
-        'Coal (TWh; substituted energy)': 'coal',
-        'Oil (TWh; substituted energy)': 'oil',
-        'Gas (TWh; substituted energy)': 'gas',
-        'Hydropower (TWh; substituted energy)': 'hydro',
-        'Nuclear (TWh; substituted energy)': 'nuclear',
-        'Solar (TWh; substituted energy)': 'solar',
-        'Wind (TWh; substituted energy)': 'wind',
-        // 'Biofuels (TWh; substituted energy)': 'biomass',
-        'Traditional bimass (TWh; substituted energy)': 'biomass',
-        'Other renewables (TWh; substituted energy)': 'other',
+        'Coal (TWh, substituted energy)': 'coal',
+        'Oil (TWh, substituted energy)': 'oil',
+        'Gas (TWh, substituted energy)': 'gas',
+        'Hydropower (TWh, substituted energy)': 'hydro',
+        'Nuclear (TWh, substituted energy)': 'nuclear',
+        'Solar (TWh, substituted energy)': 'solar',
+        'Wind (TWh, substituted energy)': 'wind',
+        // 'Biofuels (TWh, substituted energy)': 'biomass',
+        'Traditional biomass (TWh, substituted energy)': 'biomass',
+        'Other renewables (TWh, substituted energy)': 'other',
       };
       const colors = {
         wind: '#74cdb9',
@@ -68,7 +68,7 @@ const WorldPrimaryEnergy = () => {
       const fuels = Object.keys(mapping);
       fuels.forEach((k) => {
         if (!obj[0][k]) {
-          console.warn(`Key ${k} was not found in global-primary-energy.csv`);
+          console.error(`Key ${k} was not found in global-primary-energy.csv`);
         }
       });
 
@@ -137,7 +137,7 @@ const WorldPrimaryEnergy = () => {
 
       newOption.grid.right = 120;
 
-      newOption.yAxis.max = 160;
+      newOption.yAxis.max = 180;
       newOption.xAxis.axisLabel = { interval: 19 };
       newOption.xAxis.axisTick = { interval: 19 };
 

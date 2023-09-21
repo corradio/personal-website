@@ -603,7 +603,7 @@ const ClimateChange = ({ data, location }) => (
       necessary{' '}
       <a href="https://en.wikipedia.org/wiki/Precious_metal">rare metals</a>.
     </p>
-
+    <p>&nbsp;</p>
     <h3 id="transportation--reduce-long-distance-travels">
       Transportation: Reduce long-distance travels
     </h3>
@@ -623,6 +623,7 @@ const ClimateChange = ({ data, location }) => (
       </b>{' '}
       (else, it would reduce all of our efforts to nothing).
     </p>
+    <p>&nbsp;</p>
     <h3 id="electricity--remove-coal--gas-and-oil-power-plants">
       Electricity: remove coal, gas and oil power plants
     </h3>
@@ -651,6 +652,7 @@ const ClimateChange = ({ data, location }) => (
       </Link>
       .
     </p>
+    <p>&nbsp;</p>
     <h3 id="food--avoid-red-meat">Food: avoid red meat</h3>
     <Food />
     <p>

@@ -140,10 +140,10 @@ const TempAnnomalies = () => {
         <Link outward href="http://science.sciencemag.org/content/suppl/2013/03/07/339.6124.1198.DC1" target="_blank" rel="noopener noreferrer">data</Link>
         ) before 1880,
         {' '}
-        <Link outward href="https://climate.nasa.gov/vital-signs/global-temperature/" target="_blank" rel="noopener noreferrer">NASA&quot;s Goddard Institute for Space Studies (GISS)</Link>
+        <Link outward href="https://climate.nasa.gov/vital-signs/global-temperature/" target="_blank" rel="noopener noreferrer">NASA&apos;s Goddard Institute for Space Studies (GISS)</Link>
         {' '}
         (
-        <Link outward href="http://climate.nasa.gov/system/internal_resources/details/original/647_Global_Temperature_Data_File.txt" target="_blank" rel="noopener noreferrer">data</Link>
+        <Link outward href="https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt" target="_blank" rel="noopener noreferrer">data</Link>
         ) after 1880
       </Source>
     </Graph>
