@@ -42,7 +42,7 @@ const AtmosphericCo2 = () => {
     icecoreObj.split('\n')
       .filter((d) => !d.startsWith('#'))
       .map((d) => {
-        const r = d.split('  ');
+        const r = d.split(' ').filter(d => d);
         return [1950 - +r[0], +r[1]];
       })
       // eslint-disable-next-line no-restricted-globals
