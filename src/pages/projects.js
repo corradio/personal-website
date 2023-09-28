@@ -16,6 +16,20 @@ export default ({ data, location }) => (
     <h1 style={{ marginTop: rhythm(2) }}>Projects</h1>
     This is a section containing projects I have worked on.
 
+    <h2 style={{ marginTop: rhythm(1) }}>Polynomial: A central place to track your most vital KPIs (2023)</h2>
+    <p>
+      Polynomial is the fastest way to centralize the performance indicators that matter to you.
+      Simply connect integrations, and Polynomial takes care of the rest.
+      Check it out <a href="https://polynomial.so">here</a>, or contribute to it <a href="https://github.com/corradio/polynomial/">here</a>.
+    </p>
+    <p>
+      <center>
+        <a href="https://polynomial.so">
+          <img src="https://polynomial.so/static/images/social.c601a088e58c.png" alt="polynomial.so" />
+        </a>
+      </center>
+    </p>
+
     <h2 style={{ marginTop: rhythm(1) }}>Scope 2 widget (2022)</h2>
     It can be tricky to understand scope 2 carbon accounting rules.
     A guide was written (<a href="https://www.electricitymaps.com/guides/accounting-guide">Understanding Electricity Scope 2 Attribution Rules</a>), and a small widget was made as a complement.
