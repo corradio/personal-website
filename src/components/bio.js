@@ -49,10 +49,13 @@ export default ({ siteMetadata }) => (
       </Row>
     </Container>
     <p>
-      I also spend time researching how complex system self-organise in order to understand the dynamics of evolution and the emergence of collective behaviour.
+      I also spend time wondering how complex system self-organise in order to understand the dynamics of evolution and the emergence of collective behaviour.
     </p>
     <p>
-      Feel free to connect with me on <a href={`https://twitter.com/${siteMetadata.social.twitter}`}>twitter</a> or <a href={`https://linkedin.com/in/${siteMetadata.social.linkedin}`}>linkedIn</a>.
+      Recently, I&apos;ve been working on <a href="https://polynomial.so">Polynomial</a>, a simple tool to track and centralise all the metrics you care about.
+    </p>
+    <p>
+      Feel free to connect with me on <a href={`https://twitter.com/${siteMetadata.social.twitter}`}>Twitter</a> or <a href={`https://linkedin.com/in/${siteMetadata.social.linkedin}`}>LinkedIn</a>.
     </p>
   </div>
 );
