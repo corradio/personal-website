@@ -14,7 +14,7 @@
 # 
 # Contact:  Xin Lan (xin.lan@noaa.gov)
 # 
-# File Creation: Tue Sep  5 03:55:26 2023
+# File Creation: Tue Mar  5 03:55:32 2024
 # 
 # 
 # --------------------------------------------------------------------
@@ -38,8 +38,9 @@
 # CO2 expressed as a mole fraction in dry air, micromol/mol, abbreviated as ppm
 #
 # NOTE: Due to the eruption of the Mauna Loa Volcano, measurements from Mauna Loa Observatory
-# were suspended as of Nov. 29, 2022. Observations starting in December 2022 are from a site
-# at the Maunakea Observatories, approximately 21 miles north of the Mauna Loa Observatory.
+# were suspended as of Nov. 29, 2022 and resumed in July 2023. 
+# Observations starting from December 2022 to July 4, 2023 are from a site at the 
+# Maunakea Observatories, approximately 21 miles north of the Mauna Loa Observatory.
 # 
 # year     mean      unc
   1959   315.98     0.12
@@ -106,3 +107,4 @@
   2020   414.21     0.12
   2021   416.41     0.12
   2022   418.53     0.12
+  2023   421.08     0.12
