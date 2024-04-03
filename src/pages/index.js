@@ -104,6 +104,7 @@ export default ({ data, location }) => {
       />
 
       <h1 style={{ marginTop: rhythm(2) }}>Selected podcasts</h1>
+      <SpotifyPodcast src="https://open.spotify.com/embed/episode/0vFnP61BQqlfcLMcc4TfkJ" />
       <SpotifyPodcast src="https://open.spotify.com/embed/episode/6pub5uMCRFN7iIsHIcaUel" />
       <SpotifyPodcast src="https://open.spotify.com/embed/episode/378C52Ofs5dw6r2Mlk940o" />
       <SpotifyPodcast src="https://open.spotify.com/embed/episode/4QnX8ngxvd5ACUapufsPhL" />
