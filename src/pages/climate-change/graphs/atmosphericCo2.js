@@ -69,7 +69,7 @@ const AtmosphericCo2 = () => {
     };
     newOption.xAxis.min = -900000;
     newOption.yAxis.min = 150;
-    newOption.yAxis.max = 420;
+    newOption.yAxis.max = 430;
 
     newOption.dataZoom = initialDataZoom();
     newOption.dataZoom[0].startValue = -40000;
@@ -128,7 +128,7 @@ const AtmosphericCo2 = () => {
 
   return (
     <Graph>
-      <GraphTitle>Atmospheric CO2 concentration in the last 40&nbsp;000 to 800&nbsp;000 years</GraphTitle>
+      <GraphTitle>Atmospheric CO2 concentration in the last 40 000 to 800 000 years</GraphTitle>
       <GraphDescription>in ppm (particles per million)</GraphDescription>
       <ReactEcharts
         option={option}
