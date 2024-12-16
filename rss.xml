@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Olivier Corradi]]></title><description><![CDATA[I'm a data scientist and entrepreneur focussed on finding scalable solutions to climate change]]></description><link>https://oliviercorradi.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 07 Oct 2024 11:18:36 GMT</lastBuildDate><item><title><![CDATA[Lessons learned after 5 years of climate tech entrepreneurship]]></title><description><![CDATA[I started Tomorrow in 2016 with a desire to find scalable digital solutions to climate change. During the 5 years that followed, Tomorrow…]]></description><link>https://oliviercorradi.com/lessons-learned-climate-tech/</link><guid isPermaLink="false">https://oliviercorradi.com/lessons-learned-climate-tech/</guid><pubDate>Mon, 15 Nov 2021 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I started &lt;a href=&quot;https://www.tmrow.com&quot;&gt;Tomorrow&lt;/a&gt; in 2016 with a desire to find scalable digital solutions to climate change. During the 5 years that followed, Tomorrow created a B2B enterprise data service (&lt;a href=&quot;https://www.electricitymap.org&quot;&gt;electricityMap&lt;/a&gt;), a B2C carbon accounting app (&lt;a href=&quot;https://www.tmrow.com/blog/sunsetting-north/&quot;&gt;North&lt;/a&gt;) and a B2B carbon accounting SaaS (&lt;a href=&quot;https://www.tmrow.com/blog/closing-down-the-bloom-chapter/&quot;&gt;Bloom&lt;/a&gt;).
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Olivier Corradi]]></title><description><![CDATA[I'm a data scientist and entrepreneur focussed on finding scalable solutions to climate change]]></description><link>https://oliviercorradi.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 16 Dec 2024 14:56:02 GMT</lastBuildDate><item><title><![CDATA[Electricity Maps on your macOS status bar]]></title><description><![CDATA[Install xbar manually Download and install version 2.1.7-beta (newer releases can be found here). If you’re using Homebrew, then you can…]]></description><link>https://oliviercorradi.com/electricity-maps-macos-statusbar/</link><guid isPermaLink="false">https://oliviercorradi.com/electricity-maps-macos-statusbar/</guid><pubDate>Mon, 16 Dec 2024 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d73ede434fe679c2d59f93e4e920b3e7/1f083/cover.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 35.13513513513513%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABYlAAAWJQFJUiTwAAABs0lEQVQoz02PS08TYRiF5zfqAoOEEJGoMSExwRilxiAqJi7csEAMNOhCU4VSRp0WhMYi1NZOp+1YmHboXL9pkXIbyv54WlmwePKc9+S7StMzb7AQeYa56EvMvZvC/MJTMonJVy9wPzKOB48jGL57G48mnuDOvVFMTD3HwMgNjI0/xJXrfRi6dRNX+/swMDyEa4P9kOJbW/icTmPp5yaWNjcQJ4s/0oilN/Be+YYPa6uYTywjtprCp5QCef07PsoJxJIKook4ol9kvF1Zxizz68UEpMJ+Cyv5HBRNw1dVRbJUQpJ5Ta9Azv1Cqpu1IrKGgeC8A//kBOIshB2ewuyc4U8YosK5yF4Wx5D0VhOqY6PoOj0XbAtFWuOs0aUu7HS60mig6ji9rLLLNvaQDwTyf/eRDQKsuy1IJocaDzWaAXaE38MgdS6s0Sb7bjZJ/aLfZVcWAipzgXsLPCNHK4YNaY9lhl+uWg34R0fw2gcQhwcI6CbdbP/PgnicLbpGqsxlWjtsY1t4yPDlM5nfkFzequ/uoG5ZcHir7ftwiXeJ7uwQi5jEIFWikwr3a66LsuchCDv4Bxwr1Nl/9cfaAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;cover.png&quot;
+        title=&quot;cover.png&quot;
+        src=&quot;/static/d73ede434fe679c2d59f93e4e920b3e7/fcda8/cover.png&quot;
+        srcset=&quot;/static/d73ede434fe679c2d59f93e4e920b3e7/12f09/cover.png 148w,
+/static/d73ede434fe679c2d59f93e4e920b3e7/e4a3f/cover.png 295w,
+/static/d73ede434fe679c2d59f93e4e920b3e7/fcda8/cover.png 590w,
+/static/d73ede434fe679c2d59f93e4e920b3e7/1f083/cover.png 660w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Install xbar manually&lt;/h2&gt;
+&lt;p&gt;Download and install &lt;a href=&quot;https://github.com/matryer/xbar/releases/download/v2.1.7-beta/xbar.v2.1.7-beta.dmg&quot;&gt;version 2.1.7-beta&lt;/a&gt; (newer releases can be found &lt;a href=&quot;https://github.com/matryer/xbar/releases&quot;&gt;here&lt;/a&gt;). If you’re using &lt;a href=&quot;https://brew.sh&quot;&gt;Homebrew&lt;/a&gt;, then you can also simply run:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;brew &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;--cask&lt;/span&gt; xbar&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Install the Electricity Maps plugin&lt;/h2&gt;
+&lt;p&gt;The Electricity Maps plugin is available &lt;a href=&quot;https://gist.github.com/corradio/23676994355836817b81d39dce0c9df2&quot;&gt;here&lt;/a&gt; as a Github Gist.
+It needs to be downloaded into xbar’s plugin folder, and made executable, which can be performed by entering the following commands into a terminal.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;&lt;span class=&quot;token function&quot;&gt;curl&lt;/span&gt; https://gist.githubusercontent.com/corradio/23676994355836817b81d39dce0c9df2/raw/001-electricitymaps.5m.py &lt;span class=&quot;token parameter variable&quot;&gt;-o&lt;/span&gt; ~/Library/Application&lt;span class=&quot;token punctuation&quot;&gt;\&lt;/span&gt; Support/xbar/plugins/001-electricitymaps.5m.py
+&lt;span class=&quot;token function&quot;&gt;chmod&lt;/span&gt; +x ~/Library/Application&lt;span class=&quot;token punctuation&quot;&gt;\&lt;/span&gt; Support/xbar/plugins/001-electricitymaps.5m.py&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Once you have done this, you should refresh plugins by selecting &lt;strong&gt;xbar &gt; Refresh all&lt;/strong&gt;, or pressing the refresh icon.
+You can configure the plugin by opening it.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/133a82422176afc726928f38dc1fde9e/27f8b/screenshot.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAACLElEQVQ4y3VTSW7bQBDk/z+RQ67JIQcnho3YlgwEhiPJFPdN3PdN+kGlemjJTuAcCj2caVZX99RoeV4gSVOEYYgkSVGWJYqieIccVVWjaVqFruvQtZ2K4zCirmvkeY4sy1S+lnJxiGP4QUDijAmNIqgksaiQc+05LrbbJ/zePOFhvcbq8RE/7+9xff0DhmEoEUIo0Fzfh87NFyIicd22KBRhhX1QQvcL/HrZ4evqFl/ub/D56grf1yt8e7jDp9sb3G12SlB4iBdCy/VhWA72pg3H86k0hOsHsLmW6PHbSRKEXY90GFDOE4ppRHicoR+PeA5imLYDlyOTbjXT8bDTDTxvtmxpp0gFtufBoXqPiYZlw3QctWe7LkzXw55R5ygMCjK570XRQuhSQZzmCKIDVVrqpyTLIaPwSab2SfgRlkLe34RyYNoLLFY1bEm0YFHRnlFnkf8R7tmqwLBduLzUlG7RRJFP9iCMlBpRJXOTb0uqsy2LLX4EOTvDZ36WU2FR0Rq89obeuoAeq+k5QUUbZUVJC70ho3fzsnrLEX/2PaZ5hiYEYpVxmjFyQ0WiH0eFqmkW9eGiWgilSK1IhgvGacLpdIImhyV9JyQzbXDGME4knFT1IHolZAw5loLqzmpFUEvCgcWP/E8rSSgtStvyBAXxK+TWZCQZn5Rak0gEtPTkRV03kLBXAo6isG75dsuENxTR8QHihG+a6zgJ6PxEKTjPStY9368QnvEv4R8AKKaD0QhCggAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot.png&quot;
+        title=&quot;screenshot.png&quot;
+        src=&quot;/static/133a82422176afc726928f38dc1fde9e/fcda8/screenshot.png&quot;
+        srcset=&quot;/static/133a82422176afc726928f38dc1fde9e/12f09/screenshot.png 148w,
+/static/133a82422176afc726928f38dc1fde9e/e4a3f/screenshot.png 295w,
+/static/133a82422176afc726928f38dc1fde9e/fcda8/screenshot.png 590w,
+/static/133a82422176afc726928f38dc1fde9e/efc66/screenshot.png 885w,
+/static/133a82422176afc726928f38dc1fde9e/c83ae/screenshot.png 1180w,
+/static/133a82422176afc726928f38dc1fde9e/27f8b/screenshot.png 1730w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The API key can be obtained on the Electricity Maps &lt;a href=&quot;https://www.electricitymaps.com/free-tier&quot;&gt;free-tier page&lt;/a&gt;.
+The zone key is optional, and it will default to the location of your device, as determined by your IP address.
+You can pick between two styles: either show the carbon intensity (in gCO2e/kWh), or the Carbon-Free Energy (CFE) percentage, being the percentage of low-carbon electricity available.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Lessons learned after 5 years of climate tech entrepreneurship]]></title><description><![CDATA[I started Tomorrow in 2016 with a desire to find scalable digital solutions to climate change. During the 5 years that followed, Tomorrow…]]></description><link>https://oliviercorradi.com/lessons-learned-climate-tech/</link><guid isPermaLink="false">https://oliviercorradi.com/lessons-learned-climate-tech/</guid><pubDate>Mon, 15 Nov 2021 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I started &lt;a href=&quot;https://www.tmrow.com&quot;&gt;Tomorrow&lt;/a&gt; in 2016 with a desire to find scalable digital solutions to climate change. During the 5 years that followed, Tomorrow created a B2B enterprise data service (&lt;a href=&quot;https://www.electricitymap.org&quot;&gt;electricityMap&lt;/a&gt;), a B2C carbon accounting app (&lt;a href=&quot;https://www.tmrow.com/blog/sunsetting-north/&quot;&gt;North&lt;/a&gt;) and a B2B carbon accounting SaaS (&lt;a href=&quot;https://www.tmrow.com/blog/closing-down-the-bloom-chapter/&quot;&gt;Bloom&lt;/a&gt;).
 This article attempts to reflect back on meaningful lessons learned by building these data products.&lt;/p&gt;
 &lt;h2&gt;Is the climate problem also the customer’s problem?&lt;/h2&gt;
 &lt;p&gt;Every pitch deck starts with a slide about the problem you’re solving. In our case, each product was designed to solve a problem that was rooted in information availability being a barrier to climate action:&lt;/p&gt;
