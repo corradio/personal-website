@@ -24,8 +24,13 @@ curl https://gist.githubusercontent.com/corradio/23676994355836817b81d39dce0c9df
 chmod +x ~/Library/Application\ Support/xbar/plugins/001-electricitymaps.5m.py
 ```
 
-Once you have done this, you should refresh plugins by selecting **xbar > Refresh all**, or pressing the refresh icon.
-You can configure the plugin by opening it.
+It's probably also a good idea to ensure your default python installation has the right dependencies installed:
+
+```sh
+/Library/Developer/CommandLineTools/usr/bin/python3 -m pip install requests
+```
+
+Once you have done this, you should refresh plugins by selecting **xbar > Refresh all**, or pressing the refresh icon. You can configure the plugin by opening it.
 
 ![screenshot.png](screenshot.png)
 

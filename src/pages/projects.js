@@ -16,6 +16,19 @@ export default ({ data, location }) => (
     <h1 style={{ marginTop: rhythm(2) }}>Projects</h1>
     This is a section containing projects I have worked on.
 
+    <h2 style={{ marginTop: rhythm(1) }}>Electricity Maps xbar plugin (2024)</h2>
+    <p>
+      A simple way to visualise how clean electricity is in your location.
+      Check out the blog post <a href="/blog/electricity-maps-macos-statusbar/">here</a>.
+    </p>
+    <p>
+      <center>
+        <a href="https://polynomial.so">
+          <img src="https://static.electricitymaps.com/xbar-screenshot.png" alt="polynomial.so" />
+        </a>
+      </center>
+    </p>
+
     <h2 style={{ marginTop: rhythm(1) }}>Polynomial: A central place to track your most vital KPIs (2023)</h2>
     <p>
       Polynomial is the fastest way to centralize the performance indicators that matter to you.
@@ -25,7 +38,7 @@ export default ({ data, location }) => (
     <p>
       <center>
         <a href="https://polynomial.so">
-          <img src="https://polynomial.so/static/images/social.c601a088e58c.png" alt="polynomial.so" />
+          <img src="https://polynomial.so/static/images/social.png" alt="polynomial.so" />
         </a>
       </center>
     </p>
