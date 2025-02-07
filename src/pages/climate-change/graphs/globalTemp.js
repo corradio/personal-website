@@ -46,7 +46,7 @@ const GlobalTemp = () => {
 
       newOption.xAxis.max = Math.max(...xData);
       newOption.yAxis.min = -0.7;
-      newOption.yAxis.max = 1.2;
+      newOption.yAxis.max = 1.5;
 
       newOption.tooltip.formatter = (e) => {
         const value = e[0].data[1];

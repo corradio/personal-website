@@ -66,8 +66,8 @@ const TempAnnomalies = () => {
     newOption.xAxis.min = -9000;
     newOption.xAxis.max = data[data.length - 1][0];
 
-    newOption.yAxis.min = -0.7;
-    newOption.yAxis.max = 1.2;
+    newOption.yAxis.min = -1.0;
+    newOption.yAxis.max = 1.5;
 
     newOption.dataZoom = initialDataZoom();
     newOption.dataZoom[0].startValue = -9000;
