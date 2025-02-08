@@ -113,9 +113,9 @@ const Electricity = () => {
       <Source>
         Source: Life cycle emissions from
         {' '}
-        <Link outward href="https://github.com/tmrowco/electricitymap#carbon-intensity-calcuation-and-data-source">Electricity Maps</Link>
+        <Link outward href="https://www.electricitymaps.com">Electricity Maps</Link>
         {' '} (
-        <Link outward href="https://github.com/tmrowco/electricitymap/blob/master/config/co2eq_parameters.js">data</Link>
+        <Link outward href="https://github.com/electricitymaps/electricitymaps-contrib/wiki/Default-emission-factors">data</Link>
         ) and {' '}
         <Link outward href="http://www.lowtechmagazine.com/2015/05/sustainability-off-grid-solar-power.html">How Sustainable is Stored Sunlight?</Link>
         {' '} for solar + storage intensity estimations.
