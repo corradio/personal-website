@@ -58,27 +58,30 @@ export default ({ data, location }) => {
 
       <h1 style={{ marginTop: rhythm(2) }}>Selected publications</h1>
       <Post
+        title="Mapping global electricity emissions in real time"
+        href="https://www.nature.com/articles/s44359-025-00053-1"
+        date="March 27, 2025"
+      />
+      <Post
         title="How to trace back the origin of electricity"
-        href="https://www.tmrow.com/blog/flow-tracing/"
+        href="https://www.electricitymaps.com/blog/flow-tracing/"
         date="April 19, 2021"
         tags={['Electricity Maps blog']}
       />
-      {null && (
-        <Post
-          title="Real-time carbon accounting method for the European electricity markets"
-          href="https://www.sciencedirect.com/science/article/pii/S2211467X19300549"
-          date="November 01, 2019"
-        />
-      )}
+      <Post
+        title="Real-time carbon accounting method for the European electricity markets"
+        href="https://www.sciencedirect.com/science/article/pii/S2211467X19300549"
+        date="November 01, 2019"
+      />
       <Post
         title="Why green electricity contracts fail to deliver green electricity"
-        href="https://www.tmrow.com/blog/green-electricity-contracts/"
+        href="https://www.electricitymaps.com/blog/green-electricity-contracts/"
         date="September 03, 2018"
         tags={['Electricity Maps blog']}
       />
       <Post
         title="Estimating the marginal carbon intensity of electricity with machine learning"
-        href="https://www.tmrow.com/blog/marginal-carbon-intensity-of-electricity-with-machine-learning/"
+        href="https://www.electricitymaps.com/blog/marginal-carbon-intensity-of-electricity-with-machine-learning/"
         date="July 03, 2018"
         tags={['Electricity Maps blog']}
       />
