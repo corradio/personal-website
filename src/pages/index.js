@@ -116,6 +116,7 @@ export default ({ data, location }) => {
       <SpotifyPodcast src="https://open.spotify.com/embed/episode/757juNnOBE3EvJlMPgvt2q" />
 
       <h1 style={{ marginTop: rhythm(2) }}>Selected videos</h1>
+      <YoutubeVideo src="https://www.youtube.com/embed/QYHvrWUDWF8" />
       <YoutubeVideo src="https://www.youtube.com/embed/hD0Fo94OvNQ" />
       <YoutubeVideo src="https://www.youtube.com/embed/UR3K4CokeHA" />
       <YoutubeVideo src="https://www.youtube.com/embed/PAelZb2ZYwI" />
