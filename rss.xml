@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Olivier Corradi]]></title><description><![CDATA[I'm a data scientist and entrepreneur focussed on finding scalable solutions to climate change]]></description><link>https://oliviercorradi.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 03 Apr 2025 09:21:44 GMT</lastBuildDate><item><title><![CDATA[Electricity Maps on your macOS status bar]]></title><description><![CDATA[Install xbar manually Download and install version 2.1.7-beta (newer releases can be found here). If you’re using Homebrew, then you can…]]></description><link>https://oliviercorradi.com/electricity-maps-macos-statusbar/</link><guid isPermaLink="false">https://oliviercorradi.com/electricity-maps-macos-statusbar/</guid><pubDate>Mon, 16 Dec 2024 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Olivier Corradi]]></title><description><![CDATA[I'm a data scientist and entrepreneur focussed on finding scalable solutions to climate change]]></description><link>https://oliviercorradi.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 11 Jul 2025 13:19:41 GMT</lastBuildDate><item><title><![CDATA[Electricity Maps on your macOS status bar]]></title><description><![CDATA[Install xbar manually Download and install version 2.1.7-beta (newer releases can be found here). If you’re using Homebrew, then you can…]]></description><link>https://oliviercorradi.com/electricity-maps-macos-statusbar/</link><guid isPermaLink="false">https://oliviercorradi.com/electricity-maps-macos-statusbar/</guid><pubDate>Mon, 16 Dec 2024 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
@@ -416,7 +416,166 @@ plt&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;show&lt;span cl
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p class=&quot;figcaption&quot;&gt;Performance visualisation&lt;/p&gt;</content:encoded></item><item><title><![CDATA[From tech founder to CEO]]></title><description><![CDATA[“Every person in your company is a vector. Your progress is determined by the sum of all vectors.” — Elon Musk As tech founder, and as your…]]></description><link>https://oliviercorradi.com/from-tech-founder-to-ceo/</link><guid isPermaLink="false">https://oliviercorradi.com/from-tech-founder-to-ceo/</guid><pubDate>Thu, 06 Feb 2020 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p class=&quot;figcaption&quot;&gt;Performance visualisation&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Brick: a build tool for mono-repositories]]></title><description><![CDATA[More and more organisations are embracing mono-repositories as it makes dependency management simpler (read more here). However…]]></description><link>https://oliviercorradi.com/brick-a-build-tool-for-mono-repositories/</link><guid isPermaLink="false">https://oliviercorradi.com/brick-a-build-tool-for-mono-repositories/</guid><pubDate>Mon, 23 Mar 2020 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8b2dc25a36f1413c6658c90d27b38d3b/29114/cover.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsTAAALEwEAmpwYAAADJElEQVR42gEZA+b8ANxEMI8nMQBNQgFkTwQ6eAA2ggkpV4B4ebGEW86HENygEktlGQBjNEtTK7EpH641GnZXZ6umbeqwKcWtkQB2JhaOJBNQSQx+eR1PV0NrVDJ6VDaea0P3jjDKiC/ou2DIqTlujSx/XB+dFyK+cFJ6dmuBiITgqy2wilYACkxMdFMroHo/nJps17ZI98Yy/9tI88g8840g3qFnurOvtJk/yoYEx3QAsJ2G18W36Hch8HMb5IUtgoBzABo+ZyU3IjphN05vcjtadIJwTbyDQb1TIrNUHPqDJJpgJgBFISxSIG9NI0NcbqaWhvXKo7V8V19IRyJfowBxdF86GgncvUT2viR/YS1OXVJpMCqaBQV0JxLUrJG5bCpAUChafGknUTWknILhnH3IoZtEdacAOYgELmsAbpOtV3iheImIbWxJyaIz/8onnHUpflYp0otFw6R9q3IKlWwzxppqtn8oHTVENzJRKF+ZEmKhBipZGS8sAAA/X2dvVbqQInFaKrZ/Jnp2TBxiOCRqOK6cJLVeLtw4LMxGObk0JG0oIFgUK5QmRXAsV3chQUkoNBlTNQBLTjqveQyoqGd2j5PCtLA1UYkAN1UIUzQDkEk9Ui9qKiiZKCqIIiAYLSXAVDb/cSf5XCfRBxJYH0EEPGMAn2QYq55SMovLOJTLn3ZolR8kTR86KElYBUEeCjUYAFYnHkAqlXdAqJEbspUmt7NNhYFcSERjQFJrK1J4AKtMC0JqgSBfjQZNlywjPVYFBrNzYOLNuWFidQsvYAYsMUJWKomVhbaKJ4JzMjGS4S5wsjltlXS13YGuygBhTUxAMjwBPnpTeaGlnZG0opTz7Nv59OaEioUAK2QELmTTslCMpY5pf5+2pI4bSnBaRFmBOCqwqp/XvaEAKUWCIECCHENysKCQ8ubT7u3hzs7JYXdvAVsoBEtFAE23XoeTin9XqZBVusexdXJ5YzYoPU50QXWiubWpAFQ5QSZNamFFI4VqZePZzNOwlZtgQaZVIyNsTQlZXUd0noOLfZCardO2W9O7dG2IqkZofQlCggA6jRFRTkAZQk3BuH5SAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;cover.png&quot;
+        title=&quot;cover.png&quot;
+        src=&quot;/static/8b2dc25a36f1413c6658c90d27b38d3b/fcda8/cover.png&quot;
+        srcset=&quot;/static/8b2dc25a36f1413c6658c90d27b38d3b/12f09/cover.png 148w,
+/static/8b2dc25a36f1413c6658c90d27b38d3b/e4a3f/cover.png 295w,
+/static/8b2dc25a36f1413c6658c90d27b38d3b/fcda8/cover.png 590w,
+/static/8b2dc25a36f1413c6658c90d27b38d3b/efc66/cover.png 885w,
+/static/8b2dc25a36f1413c6658c90d27b38d3b/c83ae/cover.png 1180w,
+/static/8b2dc25a36f1413c6658c90d27b38d3b/29114/cover.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;More and more organisations are embracing mono-repositories as it makes dependency management simpler (read more &lt;a href=&quot;https://danluu.com/monorepo/&quot;&gt;here&lt;/a&gt;). However, implementing and maintaining a mono-repository at scale has its challenges. This is due to the fact that building and testing a large repository is no simple feat. At the core is a question of performance: at each commit, we need to re-build and re-test the whole repository. That sounds very expensive, and therefore, a caching mechanism should be introduced. The question then becomes: how do we find out which parts we need to rebuild and retest?&lt;/p&gt;
+&lt;p&gt;Larger organisations such as Google, Facebook and Twitter have adopted the mono-repository approach as they have the means to maintain such an infrastructure, but unfortunately solutions for smaller organisations are limited. At Electricity Maps, we wanted to embrace the mono-repository structure. This post explains why we built &lt;a href=&quot;https://github.com/electricitymaps/brick&quot;&gt;brick&lt;/a&gt;, our home-made build tool for mono-repositories.&lt;/p&gt;
+&lt;h2&gt;A small example&lt;/h2&gt;
+&lt;p&gt;One of our products is Electricity Maps. It shows in real-time the origin of electricity used across the world, alongside its carbon footprint. We have a paid API which provides forecasts enabling anyone to optimise their electricity usage to reduce cost and emissions. Electricity Maps is divided into geographical zones that are defined in a definition file called zones.json. This definition file contains bounding boxes, data acquisition parameters and much more (I encourage you to take a look at it here).&lt;/p&gt;
+&lt;p&gt;In our mono-repository, we have a multitude of micro-services, that are represented as folders in our repository. Here are some of them:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;api&lt;/code&gt;: The backend which hosts our backend API&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;api/www&lt;/code&gt;: The paid API website&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;contrib&lt;/code&gt;: A &lt;a href=&quot;https://git-scm.com/book/en/v2/Git-Tools-Submodules&quot;&gt;git submodule&lt;/a&gt; which points to the &lt;a href=&quot;https://github.com/electricitymaps/electricitymaps-contrib&quot;&gt;open-source Electricity Maps frontend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;forecasting&lt;/code&gt;: The forecasting pipeline used by the API&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;weather&lt;/code&gt;: The weather forecast fetching service used by the forecasting pipeline&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We use continuous deployment, which means that each pull request that changes the zones.json definition will update several systems in one go:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the public &lt;a href=&quot;https://app.electricitymaps.com/&quot;&gt;Electricity Maps app&lt;/a&gt; frontend is updated with the new geometries&lt;/li&gt;
+&lt;li&gt;our weather forecast fetching service is updated to aggregate weather data over that new geometry using the bounding boxes provided&lt;/li&gt;
+&lt;li&gt;our forecasting pipeline (part of our paid API) is updated&lt;/li&gt;
+&lt;li&gt;our &lt;a href=&quot;https://electricitymaps.com/&quot;&gt;API website&lt;/a&gt; is updated to show availability of data (see figure)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9c3e3b8f1d7df5a934e28f41551eb77b/30d16/figure1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 47.2972972972973%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsTAAALEwEAmpwYAAABnElEQVR42l2Ry0sCURTG/VPatCtoGy3aVRBtol1EtKiNCxdFbSJoEUEQFBQtIiKhXaFm7zKoDCrzkUo+UmfU0Znx0YyOk48Zp77R1OosLud+5/zu/c69mq+/oSgKm0pTVDKdySKJUYlkko5TiUJBVGrxu1nTZJqFeiLLsih+IqrV6j+mBaOAPmSVSiWTyWSzWVEUSZKkaVqSJJAVSSqVygRBLiwukdGYXAsoADU8z3Mc9+bzOZyuaDRKEASOCAQCoXAYJ15cWu6tD/E41T843NPb5/f7UUIPEPXmfD6fy/Eer3dPv39tuQHPMLSginmGYafn5kfHJ8cmptraOzu6uo0mM0iCJAVBUGEYK5fLyKCtrW9qdTPPthcYhnJ6fqXVzQ4Mjezs6g0G0/LK6sGhAXOhCueqbWSAJXWwkvn4bGNrGzPj0YrFot3ueHW7H59sJEE4nS6sDE1zPI9mPFALbvDFD46LRNSxoYTDIY/H8x4MYusPBOGWb5A/MAxItcAeIwhCwXh0cntnlWsKy7KpVKr+W/hqBBzV+xVF+Qakvt5yrm5ixAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Morty&quot;
+        title=&quot;Morty&quot;
+        src=&quot;/static/9c3e3b8f1d7df5a934e28f41551eb77b/fcda8/figure1.png&quot;
+        srcset=&quot;/static/9c3e3b8f1d7df5a934e28f41551eb77b/12f09/figure1.png 148w,
+/static/9c3e3b8f1d7df5a934e28f41551eb77b/e4a3f/figure1.png 295w,
+/static/9c3e3b8f1d7df5a934e28f41551eb77b/fcda8/figure1.png 590w,
+/static/9c3e3b8f1d7df5a934e28f41551eb77b/30d16/figure1.png 672w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This map on our &lt;a href=&quot;https://electricitymaps.com/&quot;&gt;API website&lt;/a&gt; is automatically updated each time we change the zones definition. The reason is that the map component is re-used between our &lt;a href=&quot;https://electricitymaps.com/&quot;&gt;API website&lt;/a&gt; and the &lt;a href=&quot;https://app.electricitymaps.com/&quot;&gt;Electricity Maps frontend&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is in stark contrast with a multi-repository setting, where one would first update and release a new version of the zones.json definition, then, for each dependent service, submit a pull request to update the zones.json dependency. This is quite cumbersome and doesn’t scale well. Having a single repository enables us to submit a pull request representing a single atomic change. It enables us to move faster, keep a very modular codebase and increase the amount of code shared.&lt;/p&gt;
+&lt;h2&gt;Build performance&lt;/h2&gt;
+&lt;p&gt;The issue faced by mono-repositories is that building and testing takes time as all build steps and tests need to be run, caused by the fact that it is not known which changes affect which builds and/or tests. Several tools address this need, like &lt;a href=&quot;https://bazel.build/&quot;&gt;Bazel&lt;/a&gt; used at Google, &lt;a href=&quot;https://buck.build/&quot;&gt;Buck&lt;/a&gt; at Facebook or &lt;a href=&quot;https://www.pantsbuild.org/&quot;&gt;Pants&lt;/a&gt; at Twitter (see a longer list &lt;a href=&quot;https://github.com/korfuri/awesome-monorepo&quot;&gt;here&lt;/a&gt;). The problem is that those tools require a steep learning curve for new developers. We wanted to simplify that drastically.&lt;/p&gt;
+&lt;h2&gt;Requirements&lt;/h2&gt;
+&lt;p&gt;When designing and assessing existing build tools, we looked at the following requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Any developer should be able to write a build definition with minimal learning&lt;/li&gt;
+&lt;li&gt;The builds should be hermetic (missing a build input should trigger an error)&lt;/li&gt;
+&lt;li&gt;The builds should be reproducible (triggering the same build on two machines should give the same output)&lt;/li&gt;
+&lt;li&gt;The builds should be fast (changing only a few files should only rebuild and retest the relevant parts)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bazel came the closest, but after trying it out for a few weeks, we discovered that support for the Javascript toolkit was limited, and that writing build definitions was too complicated for our needs. We were afraid that it would limit its adoption inside our team: we wanted something much simpler.&lt;/p&gt;
+&lt;h2&gt;Enters &lt;a href=&quot;https://github.com/electricitymaps/brick&quot;&gt;brick&lt;/a&gt;, based on Docker&lt;/h2&gt;
+&lt;p&gt;It turns out that &lt;a href=&quot;https://github.com/moby/buildkit&quot;&gt;buildkit&lt;/a&gt;, the system building Docker images, already fulfills a lot of these requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Builds are hermetic, as they run in an isolated container&lt;/li&gt;
+&lt;li&gt;Builds are deterministic as long as the same base image is used&lt;/li&gt;
+&lt;li&gt;Incremental builds are possible as Docker caches steps already executed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A small CLI called &lt;a href=&quot;https://github.com/electricitymaps/brick&quot;&gt;brick&lt;/a&gt; was then built in Python. It searches for a BUILD.yaml build definition file and then passes all relevant flags to the buildkit build engine.&lt;/p&gt;
+&lt;p&gt;As an example, here’s the BUILD.yaml file we use to build and deploy our API website from the &lt;code class=&quot;language-text&quot;&gt;./api&lt;/code&gt; folder of our monorepo:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;yaml&quot;&gt;&lt;pre class=&quot;language-yaml&quot;&gt;&lt;code class=&quot;language-yaml&quot;&gt;&lt;span class=&quot;token key atrule&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; www
+
+&lt;span class=&quot;token key atrule&quot;&gt;steps&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+ &lt;span class=&quot;token key atrule&quot;&gt;prepare&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+   &lt;span class=&quot;token comment&quot;&gt;# This is the docker image that will be used (optional)&lt;/span&gt;
+   &lt;span class=&quot;token key atrule&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; node&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;10.3&lt;/span&gt;
+   &lt;span class=&quot;token comment&quot;&gt;# These are the commands that will be run&lt;/span&gt;
+   &lt;span class=&quot;token key atrule&quot;&gt;commands&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+     &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; yarn
+   &lt;span class=&quot;token comment&quot;&gt;# Failing to declare those inputs will cause the `yarn`&lt;/span&gt;
+   &lt;span class=&quot;token comment&quot;&gt;# command to fail due to missing files&lt;/span&gt;
+   &lt;span class=&quot;token key atrule&quot;&gt;inputs&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+     &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; package.json
+     &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; yarn.lock
+
+ &lt;span class=&quot;token key atrule&quot;&gt;build&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+   &lt;span class=&quot;token key atrule&quot;&gt;commands&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+     &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; yarn lint
+     &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; yarn build
+   &lt;span class=&quot;token key atrule&quot;&gt;inputs&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+     &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; static/
+     &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; src/
+     &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; gatsby&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token important&quot;&gt;*.js&lt;/span&gt;
+     &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; .eslintrc.js
+   &lt;span class=&quot;token comment&quot;&gt;# Outputs will be copied from the image to the host&lt;/span&gt;
+   &lt;span class=&quot;token key atrule&quot;&gt;outputs&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+     &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; public&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Running the build is as easy as running brick build from that folder. For each stage, if the commands have not changed and the inputs have not changed, then the build results are read from cache (this is done by the docker engine itself, which will cache ADD and RUN steps). Under the hood, what actually happens is that brick generates a temporary Dockerfile that it builds.&lt;/p&gt;
+&lt;p&gt;Once the build is done, brick reads the outputs array defined in the BUILD.yaml and copies the files from the image to the host machine. Voilà!&lt;/p&gt;
+&lt;h2&gt;Speed&lt;/h2&gt;
+&lt;p&gt;A no-op build with ~15 targets (i.e. micro-services) runs in 30seconds on our CI server (n1-standard-2 on Google Cloud Compute Engine).&lt;/p&gt;
+&lt;h2&gt;Dependencies&lt;/h2&gt;
+&lt;p&gt;As inputs and outputs are clearly defined, dependencies can automatically be detected: if an input intersects the output of another build, then that other build will automatically be triggered.&lt;/p&gt;
+&lt;h2&gt;Development&lt;/h2&gt;
+&lt;p&gt;Starting to work on a new target is as simple as running brick develop, given that the right configuration is added to BUILD.yaml:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;yaml&quot;&gt;&lt;pre class=&quot;language-yaml&quot;&gt;&lt;code class=&quot;language-yaml&quot;&gt;&lt;span class=&quot;token key atrule&quot;&gt;develop&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+ &lt;span class=&quot;token key atrule&quot;&gt;command&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; yarn develop &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;H 0.0.0.0
+ &lt;span class=&quot;token key atrule&quot;&gt;ports&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+   &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;8000&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;What happens under the hood is that a docker run command is issued, re-using the prepare step to make sure every developer has the same dependencies. Using our API website as an example, if a new dependency is added to the package.json file, then brick develop will automatically re-run the prepare step. This avoids the problem of developers having to remember to run yarn if dependencies have changed. Furthermore, it guarantees that developers are always working on a consistent system.&lt;/p&gt;
+&lt;p&gt;brick develop runs in an isolated container, and automatically mounts volumes to the host filesystem based on the inputs declarations. This ensures that watching file changes works, while still keeping the guarantee that missing inputs will cause errors, forcing the developer to declare them all.&lt;/p&gt;
+&lt;h2&gt;Tests&lt;/h2&gt;
+&lt;p&gt;Tests can also be defined in a similar fashion:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;yaml&quot;&gt;&lt;pre class=&quot;language-yaml&quot;&gt;&lt;code class=&quot;language-yaml&quot;&gt;&lt;span class=&quot;token key atrule&quot;&gt;test&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+ &lt;span class=&quot;token key atrule&quot;&gt;commands&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+   &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; yarn test&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Deployment&lt;/h2&gt;
+&lt;p&gt;Deployments can also be cached. In this example, we define a deployment configuration which copies the output of our build step (the public folder) to a Google Cloud Bucket. Secrets are also defined, which will be mounted during the deployment stage.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;yaml&quot;&gt;&lt;pre class=&quot;language-yaml&quot;&gt;&lt;code class=&quot;language-yaml&quot;&gt;&lt;span class=&quot;token key atrule&quot;&gt;deploy&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+ &lt;span class=&quot;token key atrule&quot;&gt;commands&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+   &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; gsutil &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;m cp &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;a public&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;read &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;r public/* gs&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;//static.electricitymaps.com/api
+ &lt;span class=&quot;token key atrule&quot;&gt;secrets&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+   &lt;span class=&quot;token key atrule&quot;&gt;gcloud&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+     &lt;span class=&quot;token key atrule&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ~/.config/gcloud
+     &lt;span class=&quot;token key atrule&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; /root/.config/gcloud&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Final words&lt;/h2&gt;
+&lt;p&gt;brick is still very experimental, and the documentation sparse. However it is already used internally for all of our builds and tests. If you feel like you want to help us out make it more robust, please reach out!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[From tech founder to CEO]]></title><description><![CDATA[“Every person in your company is a vector. Your progress is determined by the sum of all vectors.” — Elon Musk As tech founder, and as your…]]></description><link>https://oliviercorradi.com/from-tech-founder-to-ceo/</link><guid isPermaLink="false">https://oliviercorradi.com/from-tech-founder-to-ceo/</guid><pubDate>Thu, 06 Feb 2020 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
