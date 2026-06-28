@@ -42,7 +42,7 @@ export default ({ siteMetadata }) => (
           </div>
         </Col>
         <Col sm={9} style={{ marginBottom: rhythm(1 / 2), marginTop: rhythm(1 / 2) }}>
-          I&apos;m a statistician, data scientist and entrepreneur focussed on finding scalable solutions to climate change.
+          I&apos;m a statistician, data scientist and entrepreneur fascinated about the energy transition.
 
           I created and founded <a href="https://electricitymaps.com">Electricity Maps</a> early 2016, where I now dedicate most of my time as CEO.
         </Col>
