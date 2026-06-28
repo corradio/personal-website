@@ -62,6 +62,19 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: `gatsby-remark-mermaid`,
+            options: /** @type {import('gatsby-remark-mermaid').Options} */ ({
+              mermaidConfig: {
+                theme: 'neutral',
+                themeCSS: '.node rect { fill: #fff; }',
+                math: {
+                  // Set to true to enable KaTeX support
+                  enabled: true,
+                }
+              }
+            })
+          },
+          {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 590,
