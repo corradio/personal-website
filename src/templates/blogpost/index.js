@@ -16,27 +16,15 @@ const Section = styled.section`
   .gatsby-highlight pre[class*="language-"] {
     font-size: 70%;
   }
-  h2,h3 {
+  h2,h3,h4 {
     margin-top: ${rhythm(2)};
     margin-bottom: ${rhythm(1 / 2)};
-  }
-  h2 {
     font-family: "Lato Black", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif !important;
   }
   p.figcaption {
     color: ${theme.colors.gray};
     font-size: 70%;
     text-align: center;
-  }
-  a {
-    color: ${theme.colors.black};
-    text-decoration: none;
-    text-decoration-style: solid;
-    background-image: url('data:image/svg+xml;utf8,<svg preserveAspectRatio="none" viewBox="0 0 1 1" xmlns="http://www.w3.org/2000/svg"><line x1="0" y1="0" x2="1" y2="1" stroke="rgba(41, 41, 41, 1)" /></svg>');
-    background-position-x: 0px;
-    background-position-y: calc(1em + 1px);
-    background-repeat: repeat-x;
-    background-size: 1px 1px;
   }
 `;
 
@@ -55,7 +43,7 @@ export default ({ data, location, pageContext }) => {
       <SEO
         title={`${title} - Olivier Corradi's blog`}
         description={post.frontmatter.description || post.excerpt}
-        previewImageURL={`${siteUrl}${post.frontmatter.image.publicURL}`}
+        previewImageURL={`${siteUrl}${post.frontmatter.image?.publicURL}`}
         // canonicalLink={post.frontmatter.originalURL} // TODO: add in GQL below
       />
       <article>

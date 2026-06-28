@@ -97,7 +97,7 @@ export default ({ data, location }) => (
       but unfortunately solutions for smaller organisations are limited.
       At electricityMap, we wanted to embrace the mono-repository structure.
       brick was therefore built as a simple build tool for mono-repositories.
-      Read more about it <a href="https://electricitymap.org/blog/brick-a-build-tool-for-mono-repositories/">here</a> and contribute to it <a href="https://github.com/electricitymap/brick">here</a>.
+      Read more about it <a href="../blog/brick-a-build-tool-for-mono-repositories/">here</a> and contribute to it <a href="https://github.com/electricitymap/brick">here</a>.
     </p>
 
   </Layout>
