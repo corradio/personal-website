@@ -53,7 +53,7 @@ const ClimateChange = ({ data, location }) => (
       A Pragmatic Guide to Climate Change
     </h1>
     <Disclamer>
-      <b>Last updated: March 20th, 2022 · 16 min read</b>
+      <b>Last updated: June 28th, 2026 · 16 min read</b>
       <br />
       If you see anything inconsistent, or would like to propose a change,
       please reach out.
@@ -416,11 +416,11 @@ const ClimateChange = ({ data, location }) => (
     </p>
     <WorldPrimaryEnergy />
     <p>
-      Although wind and solar power are a decent part of newly installed energy
-      production facilities nowadays (we hear about it very often in the news),
-      it is still only 1% percent of global primary energy supply. In fact, we
+      Although wind and solar power are a substantial part of newly installed energy
+      production facilities nowadays,
+      they unfortunately still remain a small portion of global energy supply. In fact, we
       see that we currently still get{' '}
-      <b>more than 80% of our energy from fossil fuels</b>, which surprisingly
+      <b>close to 80% of our energy from fossil fuels</b>, which surprisingly
       is <b>exactly the same as in 1980</b>: the growth of renewables has been
       matched by (or even{' '}
       <Link

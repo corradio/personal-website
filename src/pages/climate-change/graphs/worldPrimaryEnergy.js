@@ -137,7 +137,7 @@ const WorldPrimaryEnergy = () => {
 
       newOption.grid.right = 120;
 
-      newOption.yAxis.max = 180;
+      newOption.yAxis.max = 200;
       newOption.xAxis.axisLabel = { interval: 19 };
       newOption.xAxis.axisTick = { interval: 19 };
 
